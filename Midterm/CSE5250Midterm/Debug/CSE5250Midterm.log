@@ -1,0 +1,7 @@
+﻿  CSE5250Midterm.cpp
+C:\Users\17072\Desktop\CSE5250Midterm\CSE5250Midterm.cpp(93,27): warning C4244: 'return': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  CSE5250Midterm.vcxproj -> C:\Users\17072\Desktop\CSE5250Midterm\Debug\CSE5250Midterm.exe

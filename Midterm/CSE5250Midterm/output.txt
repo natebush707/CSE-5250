@@ -1,0 +1,1050 @@
+Running Sieve of Eratosthenes with 1 thread/s up to a max value of 100.
+
+	Execution #1: Found prime numbers up to 100 in 29 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100 in 23 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100 in 23 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100 in 32 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 23 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 1 thread/s up to a max value of 1000.
+
+	Execution #1: Found prime numbers up to 1000 in 176 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000 in 175 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000 in 173 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000 in 172 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000 in 243 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000 in 172 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000 in 170 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000 in 174 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000 in 172 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000 in 171 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 179 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 1 thread/s up to a max value of 10000.
+
+	Execution #1: Found prime numbers up to 10000 in 1757 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000 in 1742 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000 in 1714 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000 in 1714 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000 in 1715 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000 in 1717 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000 in 1720 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000 in 1716 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000 in 1718 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000 in 1718 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1723 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 1 thread/s up to a max value of 100000.
+
+	Execution #1: Found prime numbers up to 100000 in 18041 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100000 in 19147 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100000 in 18600 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100000 in 18909 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100000 in 17973 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100000 in 18270 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100000 in 18284 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100000 in 18137 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100000 in 18279 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100000 in 18008 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 18364 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 1 thread/s up to a max value of 1000000.
+
+	Execution #1: Found prime numbers up to 1000000 in 201791 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000000 in 199195 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000000 in 214557 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000000 in 206897 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000000 in 203884 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000000 in 218599 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000000 in 202677 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000000 in 200558 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000000 in 207549 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000000 in 190730 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 204643 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 1 thread/s up to a max value of 10000000.
+
+	Execution #1: Found prime numbers up to 10000000 in 2289600 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000000 in 2281247 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000000 in 2271028 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000000 in 2240589 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000000 in 2244483 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000000 in 2243306 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000000 in 2248885 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000000 in 2240678 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000000 in 2243995 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000000 in 2256007 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 2255981 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 2 thread/s up to a max value of 100.
+
+	Execution #1: Found prime numbers up to 100 in 802 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100 in 24 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 99 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 2 thread/s up to a max value of 1000.
+
+	Execution #1: Found prime numbers up to 1000 in 138 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000 in 147 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000 in 140 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000 in 145 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000 in 140 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000 in 146 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000 in 148 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000 in 142 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000 in 192 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000 in 140 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 147 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 2 thread/s up to a max value of 10000.
+
+	Execution #1: Found prime numbers up to 10000 in 1311 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000 in 1329 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000 in 1408 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000 in 1343 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000 in 1372 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000 in 1329 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000 in 1392 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000 in 1325 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000 in 1327 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000 in 1336 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1347 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 2 thread/s up to a max value of 100000.
+
+	Execution #1: Found prime numbers up to 100000 in 13734 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100000 in 13518 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100000 in 13506 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100000 in 13627 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100000 in 13507 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100000 in 13508 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100000 in 13550 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100000 in 13868 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100000 in 13458 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100000 in 14017 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 13629 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 2 thread/s up to a max value of 1000000.
+
+	Execution #1: Found prime numbers up to 1000000 in 138851 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000000 in 140460 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000000 in 140130 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000000 in 142480 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000000 in 139457 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000000 in 139949 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000000 in 142480 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000000 in 141240 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000000 in 139486 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000000 in 139951 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 140448 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 2 thread/s up to a max value of 10000000.
+
+	Execution #1: Found prime numbers up to 10000000 in 1586350 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000000 in 1580076 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000000 in 1585965 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000000 in 1583142 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000000 in 1599656 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000000 in 1590951 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000000 in 1589496 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000000 in 1592049 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000000 in 1594397 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000000 in 1607584 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1590966 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 4 thread/s up to a max value of 100.
+
+	Execution #1: Found prime numbers up to 100 in 1762 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100 in 23 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100 in 23 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100 in 19 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 195 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 4 thread/s up to a max value of 1000.
+
+	Execution #1: Found prime numbers up to 1000 in 130 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000 in 141 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000 in 141 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000 in 213 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000 in 159 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000 in 142 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000 in 139 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000 in 139 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000 in 128 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000 in 125 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 145 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 4 thread/s up to a max value of 10000.
+
+	Execution #1: Found prime numbers up to 10000 in 1157 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000 in 1169 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000 in 1135 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000 in 1134 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000 in 1132 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000 in 1128 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000 in 1127 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000 in 1132 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000 in 1126 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000 in 1127 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1136 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 4 thread/s up to a max value of 100000.
+
+	Execution #1: Found prime numbers up to 100000 in 12123 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100000 in 12348 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100000 in 11352 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100000 in 11864 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100000 in 12479 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100000 in 25770 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100000 in 11747 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100000 in 16533 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100000 in 12753 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100000 in 11487 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 13845 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 4 thread/s up to a max value of 1000000.
+
+	Execution #1: Found prime numbers up to 1000000 in 121155 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000000 in 114420 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000000 in 115991 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000000 in 120771 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000000 in 117229 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000000 in 134043 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000000 in 133472 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000000 in 117613 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000000 in 115293 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000000 in 115895 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 120588 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 4 thread/s up to a max value of 10000000.
+
+	Execution #1: Found prime numbers up to 10000000 in 1255768 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000000 in 1286480 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000000 in 1249194 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000000 in 1261454 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000000 in 1268174 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000000 in 1254848 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000000 in 1249319 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000000 in 1253448 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000000 in 1276656 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000000 in 1268451 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1262379 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 8 thread/s up to a max value of 100.
+
+	Execution #1: Found prime numbers up to 100 in 3471 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100 in 26 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100 in 62 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100 in 44 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100 in 44 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100 in 22 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100 in 20 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100 in 21 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100 in 23 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 375 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 8 thread/s up to a max value of 1000.
+
+	Execution #1: Found prime numbers up to 1000 in 130 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000 in 125 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000 in 128 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000 in 128 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000 in 128 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000 in 127 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000 in 291 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000 in 300 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000 in 303 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000 in 302 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 196 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 8 thread/s up to a max value of 10000.
+
+	Execution #1: Found prime numbers up to 10000 in 2749 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000 in 2784 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000 in 2778 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000 in 1163 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000 in 1127 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000 in 1122 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000 in 1134 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000 in 1127 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000 in 1124 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000 in 1203 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1631 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 8 thread/s up to a max value of 100000.
+
+	Execution #1: Found prime numbers up to 100000 in 26504 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100000 in 23138 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100000 in 12232 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100000 in 15824 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100000 in 12982 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100000 in 11023 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100000 in 26401 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100000 in 26880 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100000 in 11182 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100000 in 26256 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 19242 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 8 thread/s up to a max value of 1000000.
+
+	Execution #1: Found prime numbers up to 1000000 in 131243 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000000 in 141377 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000000 in 158668 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000000 in 146231 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000000 in 148516 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000000 in 143862 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000000 in 153726 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000000 in 133367 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000000 in 168873 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000000 in 129600 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 145546 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 8 thread/s up to a max value of 10000000.
+
+	Execution #1: Found prime numbers up to 10000000 in 1212470 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000000 in 1180807 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000000 in 1152228 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000000 in 1229169 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000000 in 1167948 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000000 in 1177348 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000000 in 1203842 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000000 in 1183826 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000000 in 1184067 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000000 in 1164904 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1185660 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 12 thread/s up to a max value of 100.
+
+	Execution #1: Found prime numbers up to 100 in 4405 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100 in 48 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100 in 44 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100 in 42 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100 in 43 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100 in 48 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100 in 44 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100 in 55 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100 in 44 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100 in 44 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 481 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 12 thread/s up to a max value of 1000.
+
+	Execution #1: Found prime numbers up to 1000 in 295 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000 in 315 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000 in 230 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000 in 322 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000 in 335 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000 in 304 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000 in 311 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000 in 295 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000 in 2950 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000 in 259 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 561 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 12 thread/s up to a max value of 10000.
+
+	Execution #1: Found prime numbers up to 10000 in 2649 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000 in 2267 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000 in 2455 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000 in 2688 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000 in 2346 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000 in 1917 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000 in 2386 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000 in 2978 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000 in 2484 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000 in 2712 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 2488 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 12 thread/s up to a max value of 100000.
+
+	Execution #1: Found prime numbers up to 100000 in 25711 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 100000 in 25603 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 100000 in 24073 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 100000 in 25114 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 100000 in 25268 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 100000 in 26082 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 100000 in 24312 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 100000 in 23635 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 100000 in 24313 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 100000 in 25242 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 24935 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 12 thread/s up to a max value of 1000000.
+
+	Execution #1: Found prime numbers up to 1000000 in 158283 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 1000000 in 165427 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 1000000 in 173375 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 1000000 in 169131 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 1000000 in 162302 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 1000000 in 165401 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 1000000 in 164668 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 1000000 in 167108 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 1000000 in 170340 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 1000000 in 178965 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 167500 microseconds.
+----------------------
+
+Running Sieve of Eratosthenes with 12 thread/s up to a max value of 10000000.
+
+	Execution #1: Found prime numbers up to 10000000 in 1169593 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #2: Found prime numbers up to 10000000 in 1144748 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #3: Found prime numbers up to 10000000 in 1149141 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #4: Found prime numbers up to 10000000 in 1159641 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #5: Found prime numbers up to 10000000 in 1154060 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #6: Found prime numbers up to 10000000 in 1158621 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #7: Found prime numbers up to 10000000 in 1138788 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #8: Found prime numbers up to 10000000 in 1148595 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #9: Found prime numbers up to 10000000 in 1156814 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+	Execution #10: Found prime numbers up to 10000000 in 1162200 microseconds.
+	2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97 
+
+The average execution time after 10 executions is 1154220 microseconds.
+----------------------
+
